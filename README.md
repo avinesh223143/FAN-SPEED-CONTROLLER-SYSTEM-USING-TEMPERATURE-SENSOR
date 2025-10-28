@@ -1,5 +1,3 @@
-
-# FAN-SPEED-CONTROLLER-SYSTEM-USING-TEMPERATURE-SENSOR
 # EXP 1(A) FAN SPEED CONTROLLER SYSTEM USING TEMPERATURE SENSOR
 
 # Aim:
@@ -12,10 +10,6 @@
 	Temperature Sensor (DHT11/DHT22/TMP36)
 
 # Circuit Diagram:
-
----
-To upload
---
 
 # Procedure // Modify the procedure based on your circuit
 
