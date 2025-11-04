@@ -51,7 +51,7 @@ Step 7: Save Your Work
 2.	Save the Circuit: Click "Save" to keep your circuit design and code for future use.
 
 # Program
-```
+```python
 const int analogIn = A0;
 int humiditysensorOutput = 0;
 // Defining Variables
@@ -83,4 +83,9 @@ void loop(){
   delay(5000);  //iterate every 5 seconds
 }
 ```
+# Output
+<img width="1918" height="897" alt="image" src="https://github.com/user-attachments/assets/0aa8b3f0-a3f6-4c72-80a3-9f0117b9de09" />
+
 # Result
+    The temperature and humidity values are measured using DHT11/DHT22/TMP36 sensor with Arduino UNO Board/ESP-32 and Simulated using Tinker CAD.
+
